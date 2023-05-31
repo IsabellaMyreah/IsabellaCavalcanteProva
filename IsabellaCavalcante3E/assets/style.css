@@ -1,0 +1,159 @@
+html{
+    display: flex;
+    justify-content: center;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+body{
+    width: 1310px;
+    border: 2px solid #000000;
+    margin: 0;
+}
+
+
+.fot{
+    margin-top: 85px;
+    margin-bottom: 0;
+    display: flex;
+    justify-content: center;
+    font-size: 25px;
+    font-weight: 500;
+}
+
+.bella{
+    margin-top: 20px;
+    margin-bottom: 30px;
+    display: flex;
+    justify-content: center;
+    font-size: 28px;
+    font-weight: 100;
+}
+
+.nav-bar{
+    margin-left: 435px;
+    display: flex;
+    justify-content: center;
+    width: 450px;
+    text-decoration: none;
+    color: #000000;
+    border: 1px solid #000000;
+    margin-bottom: 50px;
+}
+
+.nav-bar a{
+    text-decoration: none;
+    color: #000000;
+    padding: 16px 20px;
+    
+}
+
+.fotos{
+    background-color: rgb(221, 221, 221);
+    display: grid;
+    grid-template-columns: 2px;
+}
+
+.img0304{
+    display: flex;
+    padding-top: 12px;
+    gap: 10px;
+    position:relative;
+    bottom: 65px;
+}
+
+.fotosJun01{
+    padding: 15px;
+    
+}
+
+.fotosTodas{
+    display: flex;
+    
+}
+
+.img02{
+    padding: 15px 0;
+    
+}
+
+.dev{
+    display: flex;
+    justify-content: center;
+    margin: 0;
+    margin-top: 100px;
+
+}
+
+.dev p{
+    text-align: center ;
+    font-size: 25px;
+    
+}
+
+.icons{
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+    margin-bottom: 70px;
+    gap: 25px;
+}
+
+.coracao{
+    position:relative;
+    bottom: 65px;
+    
+}
+
+.coracao02{
+    position:relative;
+    bottom: 75px;
+}
+
+.fotosTodas{
+    height: 817px;
+}
+
+.modal{
+    background-color: #ffffff;
+    border: 1px solid green;
+    height: 400px;
+    width: 600px;
+    border-radius: 20px;
+}
+
+.info{
+    display: flex;
+    justify-content: center;
+    padding: 5px
+}
+
+h2{
+    display: flex;
+    justify-content: center;
+    margin: 0;
+    margin-top: 25px;
+}
+
+input{
+    height: 40px;
+    width: 450px;
+    border-radius: 10px;
+    padding-left: 20px;
+    font-size: 18px;
+    color: #000000;
+    font-weight: 700;
+    
+}
+
+.inputs{
+    padding: 20px;
+}
+
+
+.buttons{
+    display: flex;
+    justify-content: center;
+    padding: 20px;
+    gap: 20px;
+}
